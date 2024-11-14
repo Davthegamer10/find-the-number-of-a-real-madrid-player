@@ -1,0 +1,43 @@
+#fetchButton {
+    padding: 10px 15px;
+    font-size: 16px;
+    color: white;
+    background-color: #EE324E;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #00529F;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FEBE10;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #00529F;
+}
+
+#teamInput {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #00529F;
+    border-radius: 4px;
+    margin-right: 10px;
+    width: 300px;
+}
+
+img {
+    width: 250px;
+    height: 340px;
+    margin-left: 200px;
+    margin-top: 90px;
+}
